@@ -1,0 +1,11 @@
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp3.1\WeaponGame.exe
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp3.1\WeaponGame.deps.json
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp3.1\WeaponGame.runtimeconfig.json
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp3.1\WeaponGame.runtimeconfig.dev.json
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp3.1\WeaponGame.dll
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp3.1\WeaponGame.pdb
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp3.1\WeaponGame.csprojAssemblyReference.cache
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp3.1\WeaponGame.AssemblyInfoInputs.cache
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp3.1\WeaponGame.AssemblyInfo.cs
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp3.1\WeaponGame.dll
+C:\Users\EldarA\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp3.1\WeaponGame.pdb
